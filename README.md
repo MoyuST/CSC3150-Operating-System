@@ -5,7 +5,7 @@ This is another interesting CSC courses I took in CUHK(SZ). (Perhaps all the cou
 Hope my homework could give you some hints when you are doing your assignments.
 <br>
 <br>
-assignments and myy scores:
+assignments and my scores:
 
 - simple multi-process program (100/100)
 - simple multi-thread program (93/100)
