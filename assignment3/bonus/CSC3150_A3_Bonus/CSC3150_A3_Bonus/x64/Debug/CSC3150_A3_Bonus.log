@@ -1,0 +1,21 @@
+﻿  
+  D:\CSC3150\assignments\assignment3\A3_template\source\Assignment_3_118010224\bonus\CSC3150_A3_Bonus\CSC3150_A3_Bonus>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin\nvcc.exe" -dlink -o x64\Debug\CSC3150_A3_Bonus.device-link.obj -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -L"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\lib\x64" cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  -gencode=arch=compute_30,code=sm_30 -G --machine 64 x64\Debug\main.cu.obj x64\Debug\user_program.cu.obj x64\Debug\virtual_memory.cu.obj 
+  cudart_static.lib
+  kernel32.lib
+  user32.lib
+  gdi32.lib
+  winspool.lib
+  comdlg32.lib
+  advapi32.lib
+  shell32.lib
+  ole32.lib
+  oleaut32.lib
+  uuid.lib
+  odbc32.lib
+  odbccp32.lib
+  main.cu.obj
+  user_program.cu.obj
+  virtual_memory.cu.obj
+    正在创建库 D:\CSC3150\assignments\assignment3\A3_template\source\Assignment_3_118010224\bonus\CSC3150_A3_Bonus\x64\Debug\CSC3150_A3_Bonus.lib 和对象 D:\CSC3150\assignments\assignment3\A3_template\source\Assignment_3_118010224\bonus\CSC3150_A3_Bonus\x64\Debug\CSC3150_A3_Bonus.exp
+  CSC3150_A3_Bonus.vcxproj -> D:\CSC3150\assignments\assignment3\A3_template\source\Assignment_3_118010224\bonus\CSC3150_A3_Bonus\x64\Debug\CSC3150_A3_Bonus.exe
+  CSC3150_A3_Bonus.vcxproj -> D:\CSC3150\assignments\assignment3\A3_template\source\Assignment_3_118010224\bonus\CSC3150_A3_Bonus\x64\Debug\CSC3150_A3_Bonus.pdb (Full PDB)
